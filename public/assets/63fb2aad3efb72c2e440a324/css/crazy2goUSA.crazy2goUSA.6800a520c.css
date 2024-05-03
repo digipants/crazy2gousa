@@ -7106,8 +7106,7 @@ figcaption {
   }
 
   .button {
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding: .5rem;
     font-size: 1rem;
   }
 
