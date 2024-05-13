@@ -7799,7 +7799,7 @@ figcaption {
   }
 
   .navbar-logo-link {
-    width: 8rem;
+    width: 12rem;
   }
 
   .navbar-dropdown-list {
@@ -7960,6 +7960,10 @@ figcaption {
 }
 
 @media screen and (max-width: 479px) {
+  .button.phone {
+    display: none;
+  }
+
   .utility-page-wrapper {
     padding: 2rem 0;
   }
